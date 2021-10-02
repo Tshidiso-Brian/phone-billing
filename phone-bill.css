@@ -1,0 +1,15 @@
+.total{
+    font-size: 300%;
+    background-color: yellow;
+    color: blue;
+    padding: 1em;
+    width: 10em;
+    margin: auto;   
+}
+
+button{
+ background-color:cornflowerblue;
+ font-size: large;
+ padding: 1em;
+ color: snow;
+}
